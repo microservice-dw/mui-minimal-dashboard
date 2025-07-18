@@ -150,7 +150,7 @@ export function HomeHero({ sx, ...other }: BoxProps) {
             />
           ))}
         </AvatarGroup>
-        160+ Happy customers
+        200+ Happy customers
       </Box>
     </m.div>
   );
